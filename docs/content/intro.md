@@ -1,6 +1,6 @@
 # KubeStellar Project Documentation 
 
-> **Looking for KubeFlex, BindingPolicy, WECs, ITSs, or the "Post Office" model?** Those are part of a separate project ([`kubestellar/kubestellar`](https://github.com/kubestellar/kubestellar)) and are **not** included in the KubeStellar Console. See [What is KubeStellar Console?](what-is-console.md) for details, or [Legacy Components](legacy-components.md) for pointers to the original project.
+> **Looking for KubeFlex, BindingPolicy, WECs, ITSs, or the "Post Office" model?** Those are part of a separate project ([`kubestellar/kubestellar`](https://github.com/kubestellar/kubestellar)) and are **not** included in the KubeStellar Console. See [What is KubeStellar Console?](what-is-console.md) for details, or [Legacy Components](legacy-components.md) for pointers to the original project. 
 
 Multi-cluster configuration management for edge, multi-cloud, and hybrid cloud environments.
 
